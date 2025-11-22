@@ -1,8 +1,5 @@
 hello 
-<<<<<<< HEAD
-i am saul goodman
-better call saul
-=======
+
 i am walter white
 hisenberg
->>>>>>> team1
+

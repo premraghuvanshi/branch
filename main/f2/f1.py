@@ -1,6 +1,3 @@
 print("hello")
 print("i am walter white")
 print("hisen")
-print("hello")
-print("i am saul goodman")
-print("better call saul")
